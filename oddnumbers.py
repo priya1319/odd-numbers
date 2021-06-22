@@ -14,3 +14,4 @@ for i in range(1,a):
 
 print(nums)
 print(d)
+ewpqwirfewopj
