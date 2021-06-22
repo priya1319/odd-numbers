@@ -15,3 +15,4 @@ for i in range(1,a):
 print(nums)
 print(d)
 print(s)
+no need to run
